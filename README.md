@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @humantester
 - 👀 I’m interested in quality engineering, software development, information security, accessibility
-- 🌱 I’m currently learning karate, cypress
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning karate, cypress, python
+- 💞️ I’m looking to collaborate on ... ai safety
 - 📫 How to reach me ...
 
 <!---
